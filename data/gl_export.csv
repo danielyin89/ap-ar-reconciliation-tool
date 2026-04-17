@@ -1,0 +1,223 @@
+gl_date	reference	vendor_id	vendor_name	type	gl_amount	description
+2026/3/2	INV-2026-1001	V001	Metro Food Supply Co.	AP-Payment	8937.37	AP-Payment - Metro Food Supply Co.
+2026/3/2	INV-2026-1002	V002	Pacific Packaging Inc.	AR-Receipt	8168.89	AR-Receipt - Pacific Packaging Inc.
+2026/3/2	INV-2026-1003	V001	Metro Food Supply Co.	AP-Payment	503.1	AP-Payment - Metro Food Supply Co.
+2026/3/2	INV-2026-1004	V001	Metro Food Supply Co.	AR-Receipt	6800.75	AR-Receipt - Metro Food Supply Co.
+2026/3/2	INV-2026-1005	V010	Valley Utilities Corp.	AP-Payment	3446.56	AP-Payment - Valley Utilities Corp.
+2026/3/2	INV-2026-1006	V003	Summit Equipment Rental	AP-Payment	2701.47	AP-Payment - Summit Equipment Rental
+2026/3/2	INV-2026-1007	V002	Pacific Packaging Inc.	AP-Payment	4403.91	AP-Payment - Pacific Packaging Inc.
+2026/3/2	INV-2026-1008	V008	Nexus IT Solutions	AR-Receipt	6504.3	AR-Receipt - Nexus IT Solutions
+2026/3/2	INV-2026-1009	V010	Valley Utilities Corp.	AP-Payment	10642.6	AP-Payment - Valley Utilities Corp.
+2026/3/3	INV-2026-1010	V004	Westside Logistics LLC	AP-Payment	9310.86	AP-Payment - Westside Logistics LLC
+2026/3/3	INV-2026-1011	V002	Pacific Packaging Inc.	AR-Receipt	4654.5	AR-Receipt - Pacific Packaging Inc.
+2026/3/3	INV-2026-1012	V006	Atlas Office Supplies	AP-Payment	4359.96	AP-Payment - Atlas Office Supplies
+2026/3/3	INV-2026-1013	V003	Summit Equipment Rental	AP-Payment	6479.56	AP-Payment - Summit Equipment Rental
+2026/3/3	INV-2026-1014	V005	Crown Cleaning Services	AR-Receipt	11875.85	AR-Receipt - Crown Cleaning Services
+2026/3/3	INV-2026-1015	V001	Metro Food Supply Co.	AP-Payment	2864.22	AP-Payment - Metro Food Supply Co.
+2026/3/3	INV-2026-1017	V006	Atlas Office Supplies	AR-Receipt	2669.62	AR-Receipt - Atlas Office Supplies
+2026/3/4	INV-2026-1018	V003	Summit Equipment Rental	AP-Payment	3288.83	AP-Payment - Summit Equipment Rental
+2026/3/4	INV-2026-1019	V010	Valley Utilities Corp.	AP-Payment	4882.9	AP-Payment - Valley Utilities Corp.
+2026/3/4	INV-2026-1020	V008	Nexus IT Solutions	AP-Payment	1227.28	AP-Payment - Nexus IT Solutions
+2026/3/4	INV-2026-1021	V003	Summit Equipment Rental	AR-Receipt	7585.24	AR-Receipt - Summit Equipment Rental
+2026/3/4	INV-2026-1022	V010	Valley Utilities Corp.	AR-Receipt	11954.04	AR-Receipt - Valley Utilities Corp.
+2026/3/4	INV-2026-1023	V001	Metro Food Supply Co.	AP-Payment	8211.36	AP-Payment - Metro Food Supply Co.
+2026/3/4	INV-2026-1024	V005	Crown Cleaning Services	AP-Payment	9257.89	AP-Payment - Crown Cleaning Services
+2026/3/4	INV-2026-1025	V003	Summit Equipment Rental	AP-Payment	5526.63	AP-Payment - Summit Equipment Rental
+2026/3/4	INV-2026-1026	V009	Premier Staffing Agency	AP-Payment	10964.64	AP-Payment - Premier Staffing Agency
+2026/3/4	INV-2026-1027	V009	Premier Staffing Agency	AP-Payment	7366.3	AP-Payment - Premier Staffing Agency
+2026/3/4	INV-2026-1030	V005	Crown Cleaning Services	AP-Payment	2987.51	AP-Payment - Crown Cleaning Services
+2026/3/4	INV-2026-1031	V002	Pacific Packaging Inc.	AR-Receipt	1164.99	AR-Receipt - Pacific Packaging Inc.
+2026/3/4	INV-2026-1032	V009	Premier Staffing Agency	AP-Payment	9225.14	AP-Payment - Premier Staffing Agency
+2026/3/5	INV-2026-1033	V009	Premier Staffing Agency	AR-Receipt	10488.33	AR-Receipt - Premier Staffing Agency
+2026/3/5	INV-2026-1034	V004	Westside Logistics LLC	AR-Receipt	8598.45	AR-Receipt - Westside Logistics LLC
+2026/3/5	INV-2026-1035	V008	Nexus IT Solutions	AR-Receipt	10810.43	AR-Receipt - Nexus IT Solutions
+2026/3/5	INV-2026-1036	V002	Pacific Packaging Inc.	AR-Receipt	4156.31	AR-Receipt - Pacific Packaging Inc.
+2026/3/5	INV-2026-1037	V001	Metro Food Supply Co.	AP-Payment	991.27	AP-Payment - Metro Food Supply Co.
+2026/3/5	INV-2026-1038	V006	Atlas Office Supplies	AP-Payment	989.66	AP-Payment - Atlas Office Supplies
+2026/3/5	INV-2026-1039	V004	Westside Logistics LLC	AR-Receipt	6539.92	AR-Receipt - Westside Logistics LLC
+2026/3/5	INV-2026-1040	V008	Nexus IT Solutions	AP-Payment	9718.84	AP-Payment - Nexus IT Solutions
+2026/3/5	INV-2026-1041	V007	Harbor Insurance Group	AR-Receipt	4348.43	AR-Receipt - Harbor Insurance Group
+2026/3/5	INV-2026-1042	V001	Metro Food Supply Co.	AP-Payment	8129.37	AP-Payment - Metro Food Supply Co.
+2026/3/5	INV-2026-1043	V006	Atlas Office Supplies	AP-Payment	9637.02	AP-Payment - Atlas Office Supplies
+2026/3/5	INV-2026-1044	V009	Premier Staffing Agency	AR-Receipt	5466.07	AR-Receipt - Premier Staffing Agency
+2026/3/6	INV-2026-1045	V002	Pacific Packaging Inc.	AR-Receipt	5401.1	AR-Receipt - Pacific Packaging Inc.
+2026/3/6	INV-2026-1047	V004	Westside Logistics LLC	AR-Receipt	2120.79	AR-Receipt - Westside Logistics LLC
+2026/3/6	INV-2026-1048	V001	Metro Food Supply Co.	AP-Payment	2100.95	AP-Payment - Metro Food Supply Co.
+2026/3/6	INV-2026-1049	V008	Nexus IT Solutions	AR-Receipt	3530.2	AR-Receipt - Nexus IT Solutions
+2026/3/6	INV-2026-1050	V004	Westside Logistics LLC	AP-Payment	3665.99	AP-Payment - Westside Logistics LLC
+2026/3/6	INV-2026-1051	V006	Atlas Office Supplies	AR-Receipt	827.41	AR-Receipt - Atlas Office Supplies
+2026/3/6	INV-2026-1052	V009	Premier Staffing Agency	AR-Receipt	2015.58	AR-Receipt - Premier Staffing Agency
+2026/3/6	INV-2026-1053	V002	Pacific Packaging Inc.	AP-Payment	7201.17	AP-Payment - Pacific Packaging Inc.
+2026/3/6	INV-2026-1054	V004	Westside Logistics LLC	AP-Payment	7010.19	AP-Payment - Westside Logistics LLC
+2026/3/9	INV-2026-1056	V004	Westside Logistics LLC	AP-Payment	3297.53	AP-Payment - Westside Logistics LLC
+2026/3/9	INV-2026-1057	V006	Atlas Office Supplies	AP-Payment	11158.87	AP-Payment - Atlas Office Supplies
+2026/3/9	INV-2026-1058	V010	Valley Utilities Corp.	AP-Payment	11953.74	AP-Payment - Valley Utilities Corp.
+2026/3/9	INV-2026-1060	V006	Atlas Office Supplies	AR-Receipt	3527.1	AR-Receipt - Atlas Office Supplies
+2026/3/9	INV-2026-1061	V005	Crown Cleaning Services	AR-Receipt	7398.38	AR-Receipt - Crown Cleaning Services
+2026/3/9	INV-2026-1063	V005	Crown Cleaning Services	AP-Payment	1517.83	AP-Payment - Crown Cleaning Services
+2026/3/9	INV-2026-1064	V006	Atlas Office Supplies	AP-Payment	2562.63	AP-Payment - Atlas Office Supplies
+2026/3/9	INV-2026-1065	V001	Metro Food Supply Co.	AR-Receipt	1243.74	AR-Receipt - Metro Food Supply Co.
+2026/3/9	INV-2026-1066	V001	Metro Food Supply Co.	AP-Payment	192.02	AP-Payment - Metro Food Supply Co.
+2026/3/9	INV-2026-1067	V008	Nexus IT Solutions	AR-Receipt	6687.41	AR-Receipt - Nexus IT Solutions
+2026/3/9	INV-2026-1068	V003	Summit Equipment Rental	AP-Payment	6615.24	AP-Payment - Summit Equipment Rental
+2026/3/10	INV-2026-1070	V004	Westside Logistics LLC	AP-Payment	8053.16	AP-Payment - Westside Logistics LLC
+2026/3/10	INV-2026-1071	V003	Summit Equipment Rental	AP-Payment	11120.3	AP-Payment - Summit Equipment Rental
+2026/3/10	INV-2026-1072	V003	Summit Equipment Rental	AP-Payment	10594.78	AP-Payment - Summit Equipment Rental
+2026/3/10	INV-2026-1073	V007	Harbor Insurance Group	AP-Payment	9656.49	AP-Payment - Harbor Insurance Group
+2026/3/10	INV-2026-1074	V002	Pacific Packaging Inc.	AP-Payment	4683.12	AP-Payment - Pacific Packaging Inc.
+2026/3/10	INV-2026-1075	V004	Westside Logistics LLC	AR-Receipt	2514.94	AR-Receipt - Westside Logistics LLC
+2026/3/10	INV-2026-1076	V004	Westside Logistics LLC	AP-Payment	2791.64	AP-Payment - Westside Logistics LLC
+2026/3/10	INV-2026-1077	V002	Pacific Packaging Inc.	AP-Payment	11607.64	AP-Payment - Pacific Packaging Inc.
+2026/3/10	INV-2026-1078	V007	Harbor Insurance Group	AR-Receipt	8202.29	AR-Receipt - Harbor Insurance Group
+2026/3/11	INV-2026-1079	V005	Crown Cleaning Services	AP-Payment	2266.03	AP-Payment - Crown Cleaning Services
+2026/3/11	INV-2026-1080	V007	Harbor Insurance Group	AP-Payment	4246.39	AP-Payment - Harbor Insurance Group
+2026/3/11	INV-2026-1081	V002	Pacific Packaging Inc.	AR-Receipt	4714.57	AR-Receipt - Pacific Packaging Inc.
+2026/3/11	INV-2026-1082	V007	Harbor Insurance Group	AR-Receipt	170.04	AR-Receipt - Harbor Insurance Group
+2026/3/11	INV-2026-1084	V010	Valley Utilities Corp.	AP-Payment	3869.9	AP-Payment - Valley Utilities Corp.
+2026/3/11	INV-2026-1085	V006	Atlas Office Supplies	AP-Payment	4918.44	AP-Payment - Atlas Office Supplies
+2026/3/11	INV-2026-1086	V007	Harbor Insurance Group	AP-Payment	8176.22	AP-Payment - Harbor Insurance Group
+2026/3/11	INV-2026-1087	V009	Premier Staffing Agency	AP-Payment	10029.64	AP-Payment - Premier Staffing Agency
+2026/3/12	INV-2026-1088	V008	Nexus IT Solutions	AP-Payment	5385.16	AP-Payment - Nexus IT Solutions
+2026/3/12	INV-2026-1089	V003	Summit Equipment Rental	AP-Payment	7957.38	AP-Payment - Summit Equipment Rental
+2026/3/12	INV-2026-1090	V010	Valley Utilities Corp.	AP-Payment	4121.98	AP-Payment - Valley Utilities Corp.
+2026/3/12	INV-2026-1091	V004	Westside Logistics LLC	AP-Payment	1896.14	AP-Payment - Westside Logistics LLC
+2026/3/12	INV-2026-1092	V010	Valley Utilities Corp.	AP-Payment	10219.39	AP-Payment - Valley Utilities Corp.
+2026/3/12	INV-2026-1093	V010	Valley Utilities Corp.	AR-Receipt	2454.06	AR-Receipt - Valley Utilities Corp.
+2026/3/12	INV-2026-1095	V002	Pacific Packaging Inc.	AP-Payment	9374.28	AP-Payment - Pacific Packaging Inc.
+2026/3/12	INV-2026-1096	V009	Premier Staffing Agency	AR-Receipt	5654.92	AR-Receipt - Premier Staffing Agency
+2026/3/12	INV-2026-1097	V002	Pacific Packaging Inc.	AR-Receipt	5559.07	AR-Receipt - Pacific Packaging Inc.
+2026/3/12	INV-2026-1098	V006	Atlas Office Supplies	AR-Receipt	11407.97	AR-Receipt - Atlas Office Supplies
+2026/3/12	INV-2026-1099	V007	Harbor Insurance Group	AR-Receipt	9992.24	AR-Receipt - Harbor Insurance Group
+2026/3/12	INV-2026-1100	V008	Nexus IT Solutions	AP-Payment	5483.33	AP-Payment - Nexus IT Solutions
+2026/3/13	INV-2026-1101	V009	Premier Staffing Agency	AP-Payment	5892.47	AP-Payment - Premier Staffing Agency
+2026/3/13	INV-2026-1102	V005	Crown Cleaning Services	AP-Payment	2928.75	AP-Payment - Crown Cleaning Services
+2026/3/13	INV-2026-1103	V002	Pacific Packaging Inc.	AP-Payment	1789.73	AP-Payment - Pacific Packaging Inc.
+2026/3/13	INV-2026-1104	V004	Westside Logistics LLC	AR-Receipt	911.11	AR-Receipt - Westside Logistics LLC
+2026/3/13	INV-2026-1105	V007	Harbor Insurance Group	AR-Receipt	887.85	AR-Receipt - Harbor Insurance Group
+2026/3/13	INV-2026-1106	V010	Valley Utilities Corp.	AP-Payment	11360.84	AP-Payment - Valley Utilities Corp.
+2026/3/13	INV-2026-1108	V007	Harbor Insurance Group	AR-Receipt	10263.36	AR-Receipt - Harbor Insurance Group
+2026/3/13	INV-2026-1109	V009	Premier Staffing Agency	AP-Payment	9628.44	AP-Payment - Premier Staffing Agency
+2026/3/13	INV-2026-1110	V007	Harbor Insurance Group	AR-Receipt	5904.86	AR-Receipt - Harbor Insurance Group
+2026/3/13	INV-2026-1112	V009	Premier Staffing Agency	AR-Receipt	469.55	AR-Receipt - Premier Staffing Agency
+2026/3/16	INV-2026-1113	V007	Harbor Insurance Group	AR-Receipt	1758.04	AR-Receipt - Harbor Insurance Group
+2026/3/16	INV-2026-1114	V007	Harbor Insurance Group	AR-Receipt	4029.13	AR-Receipt - Harbor Insurance Group
+2026/3/16	INV-2026-1115	V007	Harbor Insurance Group	AR-Receipt	3447.34	AR-Receipt - Harbor Insurance Group
+2026/3/16	INV-2026-1116	V008	Nexus IT Solutions	AR-Receipt	379.69	AR-Receipt - Nexus IT Solutions
+2026/3/16	INV-2026-1117	V004	Westside Logistics LLC	AP-Payment	7854.21	AP-Payment - Westside Logistics LLC
+2026/3/16	INV-2026-1118	V010	Valley Utilities Corp.	AP-Payment	1955.73	AP-Payment - Valley Utilities Corp.
+2026/3/16	INV-2026-1119	V010	Valley Utilities Corp.	AR-Receipt	11380.92	AR-Receipt - Valley Utilities Corp.
+2026/3/16	INV-2026-1120	V010	Valley Utilities Corp.	AP-Payment	7345.88	AP-Payment - Valley Utilities Corp.
+2026/3/16	INV-2026-1121	V001	Metro Food Supply Co.	AR-Receipt	11157.31	AR-Receipt - Metro Food Supply Co.
+2026/3/17	INV-2026-1122	V002	Pacific Packaging Inc.	AP-Payment	7166.36	AP-Payment - Pacific Packaging Inc.
+2026/3/17	INV-2026-1123	V005	Crown Cleaning Services	AR-Receipt	10225.97	AR-Receipt - Crown Cleaning Services
+2026/3/17	INV-2026-1124	V010	Valley Utilities Corp.	AP-Payment	9424.23	AP-Payment - Valley Utilities Corp.
+2026/3/17	INV-2026-1125	V006	Atlas Office Supplies	AP-Payment	967.14	AP-Payment - Atlas Office Supplies
+2026/3/17	INV-2026-1126	V008	Nexus IT Solutions	AP-Payment	1400.64	AP-Payment - Nexus IT Solutions
+2026/3/17	INV-2026-1127	V003	Summit Equipment Rental	AR-Receipt	5310.52	AR-Receipt - Summit Equipment Rental
+2026/3/17	INV-2026-1128	V009	Premier Staffing Agency	AR-Receipt	9329.5	AR-Receipt - Premier Staffing Agency
+2026/3/17	INV-2026-1129	V010	Valley Utilities Corp.	AP-Payment	3330.49	AP-Payment - Valley Utilities Corp.
+2026/3/17	INV-2026-1130	V002	Pacific Packaging Inc.	AR-Receipt	3455.3	AR-Receipt - Pacific Packaging Inc.
+2026/3/17	INV-2026-1131	V010	Valley Utilities Corp.	AR-Receipt	7382.43	AR-Receipt - Valley Utilities Corp.
+2026/3/17	INV-2026-1132	V006	Atlas Office Supplies	AP-Payment	2304.8	AP-Payment - Atlas Office Supplies
+2026/3/18	INV-2026-1133	V005	Crown Cleaning Services	AP-Payment	10581.79	AP-Payment - Crown Cleaning Services
+2026/3/18	INV-2026-1134	V002	Pacific Packaging Inc.	AR-Receipt	3010.07	AR-Receipt - Pacific Packaging Inc.
+2026/3/18	INV-2026-1135	V004	Westside Logistics LLC	AR-Receipt	8333.72	AR-Receipt - Westside Logistics LLC
+2026/3/18	INV-2026-1136	V002	Pacific Packaging Inc.	AR-Receipt	3636.69	AR-Receipt - Pacific Packaging Inc.
+2026/3/18	INV-2026-1137	V010	Valley Utilities Corp.	AR-Receipt	4522.89	AR-Receipt - Valley Utilities Corp.
+2026/3/18	INV-2026-1138	V009	Premier Staffing Agency	AR-Receipt	4069.88	AR-Receipt - Premier Staffing Agency
+2026/3/18	INV-2026-1139	V004	Westside Logistics LLC	AP-Payment	1579.77	AP-Payment - Westside Logistics LLC
+2026/3/18	INV-2026-1140	V009	Premier Staffing Agency	AP-Payment	11417.9	AP-Payment - Premier Staffing Agency
+2026/3/18	INV-2026-1141	V008	Nexus IT Solutions	AR-Receipt	3426.52	AR-Receipt - Nexus IT Solutions
+2026/3/18	INV-2026-1142	V005	Crown Cleaning Services	AP-Payment	11769.05	AP-Payment - Crown Cleaning Services
+2026/3/18	INV-2026-1143	V003	Summit Equipment Rental	AR-Receipt	3731.87	AR-Receipt - Summit Equipment Rental
+2026/3/18	INV-2026-1144	V001	Metro Food Supply Co.	AP-Payment	6707.3	AP-Payment - Metro Food Supply Co.
+2026/3/18	INV-2026-1145	V001	Metro Food Supply Co.	AR-Receipt	6952.66	AR-Receipt - Metro Food Supply Co.
+2026/3/19	INV-2026-1146	V001	Metro Food Supply Co.	AR-Receipt	3141.87	AR-Receipt - Metro Food Supply Co.
+2026/3/19	INV-2026-1147	V007	Harbor Insurance Group	AR-Receipt	5977.2	AR-Receipt - Harbor Insurance Group
+2026/3/19	INV-2026-1148	V003	Summit Equipment Rental	AP-Payment	9762.03	AP-Payment - Summit Equipment Rental
+2026/3/19	INV-2026-1149	V002	Pacific Packaging Inc.	AR-Receipt	6763.17	AR-Receipt - Pacific Packaging Inc.
+2026/3/19	INV-2026-1150	V009	Premier Staffing Agency	AR-Receipt	4657.48	AR-Receipt - Premier Staffing Agency
+2026/3/19	INV-2026-1151	V007	Harbor Insurance Group	AR-Receipt	3768.76	AR-Receipt - Harbor Insurance Group
+2026/3/19	INV-2026-1152	V002	Pacific Packaging Inc.	AP-Payment	11378.94	AP-Payment - Pacific Packaging Inc.
+2026/3/19	INV-2026-1153	V002	Pacific Packaging Inc.	AP-Payment	2011.13	AP-Payment - Pacific Packaging Inc.
+2026/3/19	INV-2026-1154	V007	Harbor Insurance Group	AR-Receipt	5488.47	AR-Receipt - Harbor Insurance Group
+2026/3/19	INV-2026-1155	V004	Westside Logistics LLC	AP-Payment	3564.04	AP-Payment - Westside Logistics LLC
+2026/3/20	INV-2026-1156	V007	Harbor Insurance Group	AP-Payment	1510.1	AP-Payment - Harbor Insurance Group
+2026/3/20	INV-2026-1157	V003	Summit Equipment Rental	AP-Payment	996.21	AP-Payment - Summit Equipment Rental
+2026/3/20	INV-2026-1158	V008	Nexus IT Solutions	AP-Payment	1623.59	AP-Payment - Nexus IT Solutions
+2026/3/20	INV-2026-1159	V009	Premier Staffing Agency	AP-Payment	6001.47	AP-Payment - Premier Staffing Agency
+2026/3/20	INV-2026-1160	V006	Atlas Office Supplies	AP-Payment	7304.01	AP-Payment - Atlas Office Supplies
+2026/3/20	INV-2026-1161	V010	Valley Utilities Corp.	AP-Payment	7107.41	AP-Payment - Valley Utilities Corp.
+2026/3/20	INV-2026-1162	V005	Crown Cleaning Services	AP-Payment	6978.53	AP-Payment - Crown Cleaning Services
+2026/3/20	INV-2026-1163	V008	Nexus IT Solutions	AP-Payment	11005.46	AP-Payment - Nexus IT Solutions
+2026/3/20	INV-2026-1164	V008	Nexus IT Solutions	AR-Receipt	11633.3	AR-Receipt - Nexus IT Solutions
+2026/3/20	INV-2026-1165	V006	Atlas Office Supplies	AP-Payment	8091.08	AP-Payment - Atlas Office Supplies
+2026/3/20	INV-2026-1166	V008	Nexus IT Solutions	AR-Receipt	3565.38	AR-Receipt - Nexus IT Solutions
+2026/3/23	INV-2026-1167	V008	Nexus IT Solutions	AP-Payment	1193.51	AP-Payment - Nexus IT Solutions
+2026/3/23	INV-2026-1168	V007	Harbor Insurance Group	AP-Payment	10399.19	AP-Payment - Harbor Insurance Group
+2026/3/23	INV-2026-1169	V007	Harbor Insurance Group	AR-Receipt	792.32	AR-Receipt - Harbor Insurance Group
+2026/3/23	INV-2026-1170	V008	Nexus IT Solutions	AP-Payment	7561.09	AP-Payment - Nexus IT Solutions
+2026/3/23	INV-2026-1172	V002	Pacific Packaging Inc.	AR-Receipt	492.1	AR-Receipt - Pacific Packaging Inc.
+2026/3/23	INV-2026-1173	V009	Premier Staffing Agency	AP-Payment	4984.69	AP-Payment - Premier Staffing Agency
+2026/3/23	INV-2026-1174	V002	Pacific Packaging Inc.	AP-Payment	7825.36	AP-Payment - Pacific Packaging Inc.
+2026/3/24	INV-2026-1175	V009	Premier Staffing Agency	AR-Receipt	8509.13	AR-Receipt - Premier Staffing Agency
+2026/3/24	INV-2026-1176	V008	Nexus IT Solutions	AR-Receipt	3038.21	AR-Receipt - Nexus IT Solutions
+2026/3/24	INV-2026-1177	V010	Valley Utilities Corp.	AP-Payment	6172.65	AP-Payment - Valley Utilities Corp.
+2026/3/24	INV-2026-1178	V005	Crown Cleaning Services	AR-Receipt	9306.2	AR-Receipt - Crown Cleaning Services
+2026/3/24	INV-2026-1179	V009	Premier Staffing Agency	AP-Payment	3316	AP-Payment - Premier Staffing Agency
+2026/3/24	INV-2026-1180	V010	Valley Utilities Corp.	AR-Receipt	7022.09	AR-Receipt - Valley Utilities Corp.
+2026/3/24	INV-2026-1181	V008	Nexus IT Solutions	AP-Payment	6532.18	AP-Payment - Nexus IT Solutions
+2026/3/24	INV-2026-1182	V009	Premier Staffing Agency	AP-Payment	4619.94	AP-Payment - Premier Staffing Agency
+2026/3/24	INV-2026-1183	V004	Westside Logistics LLC	AP-Payment	6925.8	AP-Payment - Westside Logistics LLC
+2026/3/24	INV-2026-1184	V007	Harbor Insurance Group	AR-Receipt	667.22	AR-Receipt - Harbor Insurance Group
+2026/3/24	INV-2026-1185	V003	Summit Equipment Rental	AP-Payment	6019.64	AP-Payment - Summit Equipment Rental
+2026/3/24	INV-2026-1186	V006	Atlas Office Supplies	AR-Receipt	10455.95	AR-Receipt - Atlas Office Supplies
+2026/3/25	INV-2026-1187	V003	Summit Equipment Rental	AP-Payment	5008.25	AP-Payment - Summit Equipment Rental
+2026/3/25	INV-2026-1188	V005	Crown Cleaning Services	AR-Receipt	4161.95	AR-Receipt - Crown Cleaning Services
+2026/3/25	INV-2026-1189	V009	Premier Staffing Agency	AP-Payment	4653.11	AP-Payment - Premier Staffing Agency
+2026/3/25	INV-2026-1190	V001	Metro Food Supply Co.	AP-Payment	7466.89	AP-Payment - Metro Food Supply Co.
+2026/3/25	INV-2026-1191	V002	Pacific Packaging Inc.	AP-Payment	5292.56	AP-Payment - Pacific Packaging Inc.
+2026/3/25	INV-2026-1192	V005	Crown Cleaning Services	AP-Payment	10855.58	AP-Payment - Crown Cleaning Services
+2026/3/25	INV-2026-1193	V005	Crown Cleaning Services	AR-Receipt	4397.79	AR-Receipt - Crown Cleaning Services
+2026/3/25	INV-2026-1194	V007	Harbor Insurance Group	AP-Payment	6856.25	AP-Payment - Harbor Insurance Group
+2026/3/26	INV-2026-1196	V004	Westside Logistics LLC	AP-Payment	5614.63	AP-Payment - Westside Logistics LLC
+2026/3/26	INV-2026-1199	V005	Crown Cleaning Services	AR-Receipt	7721.42	AR-Receipt - Crown Cleaning Services
+2026/3/26	INV-2026-1200	V005	Crown Cleaning Services	AR-Receipt	2510.72	AR-Receipt - Crown Cleaning Services
+2026/3/26	INV-2026-1201	V002	Pacific Packaging Inc.	AR-Receipt	2960.89	AR-Receipt - Pacific Packaging Inc.
+2026/3/26	INV-2026-1202	V005	Crown Cleaning Services	AR-Receipt	409.98	AR-Receipt - Crown Cleaning Services
+2026/3/26	INV-2026-1203	V001	Metro Food Supply Co.	AR-Receipt	10940.81	AR-Receipt - Metro Food Supply Co.
+2026/3/26	INV-2026-1204	V005	Crown Cleaning Services	AP-Payment	9342.53	AP-Payment - Crown Cleaning Services
+2026/3/26	INV-2026-1205	V004	Westside Logistics LLC	AP-Payment	7507.56	AP-Payment - Westside Logistics LLC
+2026/3/26	INV-2026-1206	V001	Metro Food Supply Co.	AR-Receipt	3810.85	AR-Receipt - Metro Food Supply Co.
+2026/3/26	INV-2026-1207	V003	Summit Equipment Rental	AP-Payment	1218.08	AP-Payment - Summit Equipment Rental
+2026/3/26	INV-2026-1208	V003	Summit Equipment Rental	AR-Receipt	2529.42	AR-Receipt - Summit Equipment Rental
+2026/3/27	INV-2026-1209	V009	Premier Staffing Agency	AP-Payment	6096.27	AP-Payment - Premier Staffing Agency
+2026/3/27	INV-2026-1210	V005	Crown Cleaning Services	AR-Receipt	10981.48	AR-Receipt - Crown Cleaning Services
+2026/3/27	INV-2026-1211	V006	Atlas Office Supplies	AR-Receipt	9680.16	AR-Receipt - Atlas Office Supplies
+2026/3/27	INV-2026-1212	V004	Westside Logistics LLC	AR-Receipt	10342.67	AR-Receipt - Westside Logistics LLC
+2026/3/27	INV-2026-1213	V006	Atlas Office Supplies	AR-Receipt	1220.09	AR-Receipt - Atlas Office Supplies
+2026/3/27	INV-2026-1214	V002	Pacific Packaging Inc.	AP-Payment	5539.21	AP-Payment - Pacific Packaging Inc.
+2026/3/27	INV-2026-1215	V002	Pacific Packaging Inc.	AR-Receipt	8146.81	AR-Receipt - Pacific Packaging Inc.
+2026/3/27	INV-2026-1216	V006	Atlas Office Supplies	AP-Payment	10995.78	AP-Payment - Atlas Office Supplies
+2026/3/27	INV-2026-1217	V008	Nexus IT Solutions	AP-Payment	10926.24	AP-Payment - Nexus IT Solutions
+2026/3/27	INV-2026-1218	V001	Metro Food Supply Co.	AP-Payment	11363.2	AP-Payment - Metro Food Supply Co.
+2026/3/27	INV-2026-1219	V004	Westside Logistics LLC	AP-Payment	10664.02	AP-Payment - Westside Logistics LLC
+2026/3/27	INV-2026-1221	V002	Pacific Packaging Inc.	AR-Receipt	10029.26	AR-Receipt - Pacific Packaging Inc.
+2026/3/30	INV-2026-1222	V006	Atlas Office Supplies	AR-Receipt	2724.65	AR-Receipt - Atlas Office Supplies
+2026/3/30	INV-2026-1223	V002	Pacific Packaging Inc.	AP-Payment	11773.99	AP-Payment - Pacific Packaging Inc.
+2026/3/30	INV-2026-1224	V006	Atlas Office Supplies	AP-Payment	867.52	AP-Payment - Atlas Office Supplies
+2026/3/30	INV-2026-1225	V008	Nexus IT Solutions	AP-Payment	1236.33	AP-Payment - Nexus IT Solutions
+2026/3/30	INV-2026-1226	V001	Metro Food Supply Co.	AP-Payment	9473.52	AP-Payment - Metro Food Supply Co.
+2026/3/30	INV-2026-1227	V004	Westside Logistics LLC	AR-Receipt	963.03	AR-Receipt - Westside Logistics LLC
+2026/3/30	INV-2026-1228	V004	Westside Logistics LLC	AP-Payment	4043.43	AP-Payment - Westside Logistics LLC
+2026/3/30	INV-2026-1229	V003	Summit Equipment Rental	AP-Payment	6551.55	AP-Payment - Summit Equipment Rental
+2026/3/31	INV-2026-1230	V001	Metro Food Supply Co.	AP-Payment	4395.17	AP-Payment - Metro Food Supply Co.
+2026/3/31	INV-2026-1231	V005	Crown Cleaning Services	AR-Receipt	770.93	AR-Receipt - Crown Cleaning Services
+2026/3/31	INV-2026-1232	V002	Pacific Packaging Inc.	AP-Payment	5793.51	AP-Payment - Pacific Packaging Inc.
+2026/3/31	INV-2026-1233	V008	Nexus IT Solutions	AR-Receipt	6120.49	AR-Receipt - Nexus IT Solutions
+2026/3/31	INV-2026-1234	V009	Premier Staffing Agency	AP-Payment	3724.32	AP-Payment - Premier Staffing Agency
+2026/3/31	INV-2026-1235	V007	Harbor Insurance Group	AP-Payment	5201.34	AP-Payment - Harbor Insurance Group
+2026/3/31	INV-2026-1236	V002	Pacific Packaging Inc.	AP-Payment	10806.31	AP-Payment - Pacific Packaging Inc.
+2026/3/31	INV-2026-1237	V005	Crown Cleaning Services	AR-Receipt	7548.16	AR-Receipt - Crown Cleaning Services
+2026/3/31	INV-2026-1238	V007	Harbor Insurance Group	AR-Receipt	11936.34	AR-Receipt - Harbor Insurance Group
+2026/3/31	INV-2026-1239	V010	Valley Utilities Corp.	AP-Payment	5247.86	AP-Payment - Valley Utilities Corp.
